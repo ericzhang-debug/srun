@@ -7,3 +7,7 @@
 ## 注销
 
 > srun.exe logout -u <用户名> -d
+
+---
+
+修改自[zu1k/srun](https://github.com/zu1k/srun)
