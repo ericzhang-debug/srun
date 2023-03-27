@@ -5,7 +5,7 @@ on:
 
 env:
   CARGO_TERM_COLOR: always
-  AUTH_SERVER_IP: http://rz.ecust.edu.cn
+  AUTH_SERVER_IP: 172.20.13.100
 
 jobs:
   build-cross:
