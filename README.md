@@ -1,17 +1,17 @@
-#SRUN FOR ECUST修改版本
+# SRUN FOR ECUST修改版本
 
 > srun.exe login -u <用户名> -p <密码> -d -a 18
 
 # srun
 
-[![GitHub stars](https://img.shields.io/github/stars/zu1k/srun)](https://github.com/zu1k/srun/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/zu1k/srun)](https://github.com/zu1k/srun/network)
-[![GitHub issues](https://img.shields.io/github/issues/zu1k/srun)](https://github.com/zu1k/srun/issues)
-[![Release](https://img.shields.io/github/release/zu1k/srun)](https://github.com/zu1k/srun/releases)
-[![Build](https://github.com/zu1k/srun/actions/workflows/build-test.yml/badge.svg)](https://github.com/zu1k/srun/actions/workflows/build-test.yml)
-[![GitHub license](https://img.shields.io/github/license/zu1k/srun)](https://github.com/zu1k/srun/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/ericzhang-debug/srun)](https://github.com/ericzhang-debug/srun/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ericzhang-debug/srun)](https://github.com/ericzhang-debug/srun/network)
+[![GitHub issues](https://img.shields.io/github/issues/ericzhang-debug/srun)](https://github.com/ericzhang-debug/srun/issues)
+[![Release](https://img.shields.io/github/release/ericzhang-debug/srun)](https://github.com/zu1k/srun/releases)
+[![Build](https://github.com/ericzhang-debug/srun/actions/workflows/build-test.yml/badge.svg)](https://github.com/ericzhang-debug/srun/actions/workflows/build-test.yml)
+[![GitHub license](https://img.shields.io/github/license/ericzhang-debug/srun)](https://github.com/ericzhang-debug/srun/blob/master/LICENSE)
 
-Srun authentication system login tools. [compatible versions](https://github.com/zu1k/srun/discussions/8)
+Srun authentication system login tools. [compatible versions](https://github.com/ericzhang-debug/srun/discussions/8)
 
 ## Features
 
@@ -25,10 +25,6 @@ Srun authentication system login tools. [compatible versions](https://github.com
 - Support multiple users login, suitable for multi-dial
 - Support multi CPU architecture
 - Support multi system
-
-## Usage
-
-[Pre-built binaries](https://github.com/zu1k/srun/releases)
 
 ### CMD mode
 
