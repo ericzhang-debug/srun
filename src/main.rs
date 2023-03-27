@@ -44,7 +44,7 @@ fn login_match(args: &[String]) {
         opts.optflag("", "double-stack", "enable double stack");
         opts.optopt("n", "param-n", "n", "");
         opts.optopt("", "type", "type", "");
-        opts.optopt("", "acid", "acid", "");
+        opts.optopt("a", "acid", "acid", "");
         opts.optopt("", "os", "os, e.g. Windows", "");
         opts.optopt("", "name", "name, e.g. Windows 98", "");
         opts.optopt("", "retry-delay", "retry delay, default 300 millis", "");
