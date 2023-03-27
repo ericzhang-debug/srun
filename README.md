@@ -1,3 +1,7 @@
+#SRUN FOR ECUST修改版本
+
+> srun.exe login -u <用户名> -p <密码> -d -a 18
+
 # srun
 
 [![GitHub stars](https://img.shields.io/github/stars/zu1k/srun)](https://github.com/zu1k/srun/stargazers)
